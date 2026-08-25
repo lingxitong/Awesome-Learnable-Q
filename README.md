@@ -729,26 +729,4 @@ If this repository is helpful to your research, please consider citing or linkin
 }
 ```
 
----
 
-## Repository Description
-
-> **A curated list of awesome works on learnable queries and query-based models across AI, covering detection, segmentation, tracking, 3D perception, video, recognition, multimodal learning, NLP, audio, medical AI, robotics, and query-mechanism analysis.**
-
-### Suggested GitHub Topics
-
-```text
-awesome-list
-learnable-query
-query-based-models
-transformer
-detr
-computer-vision
-vision-language-model
-multimodal-learning
-information-extraction
-audio
-medical-imaging
-computational-pathology
-robotics
-```
