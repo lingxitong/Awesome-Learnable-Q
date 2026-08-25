@@ -11,7 +11,7 @@
 *From object queries and mask queries to track queries, BEV queries, intention queries, label queries, multimodal query tokens, and domain-specific scientific queries.*
 
 <p align="center">
-  <img src="assets/Awesome-Learnable-Q.png" alt="Awesome Learnable Q" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
+  <img src="https://github.com/lingxitong/Awesome-Learnable-Q/blob/main/Logo.png" alt="Awesome Learnable Q" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
 
 </div>
